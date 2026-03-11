@@ -4,7 +4,7 @@
 <html>
 <body>
 
-<h2>Hello Jenkins CI/CD Demo</h2>
+<h2>Hello from Automated Pipeline!!!!!</h2>
 
 </body>
 </html>
